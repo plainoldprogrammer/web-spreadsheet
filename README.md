@@ -1,2 +1,2 @@
-# web-spreadsheet
-A simple spreadsheet written in HTML, JavaScript and CSS.
+# Web Spreadsheet
+**Web Spreadsheet** is a simple *HTML, JavaScript* and *CSS* spreadsheet.
